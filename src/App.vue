@@ -3,7 +3,7 @@
     <header class="app-header">
       <div class="brand">
         <span style="font-size:20px">📅</span>
-        <span>排班管理系统</span>
+        <span>婷排班管理系统</span>
         <el-tag size="small" type="info" effect="plain">
           {{ store.settings.openTime }} ~ {{ store.settings.closeTime }}
         </el-tag>
